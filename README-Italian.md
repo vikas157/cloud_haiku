@@ -4,7 +4,7 @@ Cloud Haiku è una repository open-source che colleziona haiku riguardo il cloud
 
 **Data la popolarità di questa repository durante l'Hacktoberfest, per favore rispetta il tempo che impiegano gli amministratori per confermare e unire le pull requests. Potresti aspettare anche una settimana per ricevere una risposta, che potrebbe includere richieste di cambiamento.**
 
-## [Haiku](https://do-community.github.io/cloud_haiku/haikus/)
+## [Haiku] (https://do-community.github.io/cloud_haiku/haikus/)
 
 Tutti gli haiku inseriti dagli utenti **[haiku](https://do-community.github.io/cloud_haiku/haikus/)** sono disponibili nella cartella [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) .
 
@@ -30,8 +30,8 @@ author: IL TUO NOME
 ---
 ```
 
-Mantieni il layout come `haiku` e: 
--Vicino a `title:` inserisci il titolo del tuo haiku. 
+Mantieni il layout come `haiku` e:
+-Vicino a `title:` inserisci il titolo del tuo haiku.
 -Vicino `author:` inserisci il tuo nome (puoi anche inserire uno pseudonimo se vuoi).
 -Si prega di non aggiungere altre righe alla targhetta iniziale.
 
@@ -47,10 +47,10 @@ Il tuo haiku dovrà essere divertente da scrivere ma allo stesso tempo troverai 
 
 ### Haiku Format
 
-Gli Haiku sono una forma di poesia tradizionale giapponese. 
+Gli Haiku sono una forma di poesia tradizionale giapponese.
 Consistono di tre versi e 17 sillabe totali che seguono lo schema di sillabe 5-7-5.
 
-Le *Sillabe* sono un'unità organizzativa delle parole che di solito contengono una vocale.
+Le _Sillabe_ sono un'unità organizzativa delle parole che di solito contengono una vocale.
 Per esempio, la parola **telefono** è composta di quattro sillabe: **te** - **le** - **fo** - **no**.
 Consideriamo un esempio di haiku
 
@@ -65,8 +65,8 @@ Notiamo che l'haiku è composto da tre versi.
 Il primo è di 5 sillabe, il secondo di 7 sillabe, e il terzo di nuovo di 5, seguendo quindi lo schema proposto.
 
 ```
-La-nu-da-fo-glia  # 5 sillabe 
-Dall'-oc-chio-con-cu-pi-ta  # 7 sillabe  
+La-nu-da-fo-glia  # 5 sillabe
+Dall'-oc-chio-con-cu-pi-ta  # 7 sillabe
 Sen-ti-va-cal-do  # 5 sillabe
 ```
 
